@@ -1,6 +1,11 @@
 # 7-Segment-Display-with-Shift-Register
 A common anode 7-Segment drive with 74HC595 Shift Register
 
+# HERE THE CIRCUIT DIAGRAM
+
+![circuit_diagram](7-Segment-Display.png "Circuit diagram with component")
+
+
 # Arduino IDE Code::
 ```
 // Written by:
